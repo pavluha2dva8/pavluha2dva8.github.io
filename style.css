@@ -425,6 +425,7 @@ input {
 }
 .work {
   overflow: hidden;
+  cursor: pointer;
   border-radius: 10px;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
   transition: box-shadow 0.2s linear;
